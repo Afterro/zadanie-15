@@ -1,0 +1,168 @@
+.tb {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: rgb(255, 125, 0);
+    border-style: solid;
+    border-width: 5px;
+}
+
+.tb td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tb th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+
+.tb .tb-orange-left {
+    background-color: #C45911;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tb .tb-blue-mid {
+    background-color: #2F5496;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tb .tb-orange-right {
+    background-color: #C45911;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    text-align: right;
+    vertical-align: middle
+}
+
+.tb .title {
+    background-color: #ffffff;
+    border-color: inherit;
+    color: #000000;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 14pt;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tb .tb-green-left {
+    background-color: #70AD47;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tb .tb-green-right {
+    background-color: #70AD47;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    text-align: right;
+    vertical-align: middle
+}
+
+.tb .tb-blue-right {
+    background-color: #2F5496;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    text-align: right;
+    vertical-align: middle
+}
+
+.tb .tb-column {
+    width: 150px;
+    background-color: #538135;
+    border-color: inherit;
+    color: #000000;
+    font-family: Verdana, Geneva, sans-serif !important;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 11pt;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tb .tb-green-mid {
+    background-color: #70AD47;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tb .tb-active {
+    background-color: #BF8F00;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tb .tb-orange-mid {
+    background-color: #C45911;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    text-align: center;
+    vertical-align: middle
+}
+
+.tb .tb-blue-left {
+    background-color: #2F5496;
+    border-color: inherit;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif !important;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle
+}
+
+.tb .tb-footer {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, sans-serif !important;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12pt;
+    text-align: center;
+    vertical-align: middle
+}

@@ -1,0 +1,27 @@
+body {
+	font-family: Open Sans, sans serif, Verdana;
+}
+
+.vl {
+  border-left: 1px solid white;
+  height: 500px;
+}
+
+hr {
+	width:95%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.form-info {
+	display: grid;
+	grid-template-columns: auto 250px 150px 300px auto
+}
+.games {
+	display: grid;
+	grid-template-columns: auto auto auto auto
+}
+
+.games-input {
+	margin: auto
+}
